@@ -1,0 +1,83 @@
+
+.header{
+    height: 2cm;
+}
+.logo{
+    margin-top: 0.5cm;
+    font-size: xx-large;
+    color:blue;
+     margin-left: 2cm;
+     margin-right: 4cm;
+    
+}
+.fbtn1{
+   margin-left: 5cm;
+   height: 1cm;
+   border-radius: 0.5cm;
+}
+.fbtn{
+   margin-left: 1cm;
+   height: 1cm;
+   border-radius: 0.5cm;
+   box-decoration-break: none;
+}
+   .form{
+    height:8cm;
+    background-image: url("image/Capture.PNG");
+ 
+     
+    width:35.5cm;
+   }
+    .frame{
+        padding-top: 6.8cm;
+        padding-left: 3cm;
+        height:0.5cm;
+    }
+    .input{
+        height:1cm;
+        width:9cm;
+        border-radius: 0.2cm;
+    }
+    .subbtn{
+        height:1cm;
+        width:2.3cm;
+        background-color: blue;
+        border-radius: 1cm;
+    }
+    .h2{
+        padding-top:0.5cm;
+        margin-top: 1.7cm;
+        height:1.8cm;
+        background-color: rgb(16, 16, 32);
+        border-radius: 0.5cm;
+    }
+    .text{
+        justify-content: flex;
+    }
+    
+    .circl{
+        height:1cm;
+        width:1cm;
+        border-radius: 1cm;
+        background-color: rgb(54, 96, 158);
+        margin-left:0.5cm;
+        padding-top: 0.5cm;
+        
+    }
+   
+    .inputs{
+        border-radius: 0.2cm;
+        height: 0.9cm;
+         margin-left: 4.5cm;
+         width:7cm;
+         margin-top: 0.5cm;
+        
+         
+    }
+    .login-btn{
+        margin-left:16cm;
+        height:1cm;
+        width:2cm;
+        margin-top:2.5cm;
+
+    }
